@@ -1,0 +1,21 @@
+div {
+    text-align: center;
+}
+
+table {
+    margin: 0 auto;
+    border: 2px solid darkorchid;
+    border-collapse: collapse;
+}
+
+th, td {
+    border: 2px solid black;
+}
+
+.code {
+    background-color:darksalmon;
+}
+
+thead {
+    background-color: pink;
+}
